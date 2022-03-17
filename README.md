@@ -1,2 +1,5 @@
 # Área da TI
-<img href="areadati-website.gif">
+<p align="center">
+ <img src="areadati-website.gif" style="width: 50%;">
+  <br>Site para divulgação de negócio
+</p>
